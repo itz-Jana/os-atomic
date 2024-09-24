@@ -15,4 +15,4 @@ echo -e "[1password]\nname=1Password Stable Channel\nbaseurl=https://downloads.1
 # https://mirrors.rpmfusion.org/mirrorlist?path=free/fedora/updates/39/x86_64/repoview/index.html&protocol=https&redirect=1
 
 # this installs a package from fedora repos
-rpm-ostree install 1password
+#rpm-ostree install 1password
