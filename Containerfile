@@ -36,7 +36,7 @@ ARG SOURCE_IMAGE="kinoite"
 ARG SOURCE_SUFFIX="-main"
 
 ## SOURCE_TAG arg must be a version built for the specific image: eg, 39, 40, gts, latest
-ARG SOURCE_TAG="latest@sha256:9fac2f638e58f85539653e926364fede94c34eb00ac3ecf04df794b0ca86afe5"
+ARG SOURCE_TAG="latest@sha256:0c190b15347702263c09b43e1602d783a867cfab8ea342520b59e4f793addcf8"
 
 
 ### 2. SOURCE IMAGE
